@@ -11,7 +11,7 @@
 ### Project Setup and Basic Page Structure 
   1. [ ] create an index.html file
   2. [ ] create a style.css file
-  3. [ ] <!DOCTYPE html>
+  3. [ ] `<!DOCTYPE html>`
   4. [ ] html tags
   5. [ ] head tags
   6. [ ] body tags
