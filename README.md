@@ -8,16 +8,15 @@
 
 ## Skill tracking
 
-**Creating an HTML file**
+**Project Setup and Basic Page Structure**
   1. [ ] creating a new html file
-    - Date this task is scheduled to be completed:
-    - Date this task was completed:
+  2. [ ] html tags
+  3. [ ] head tags
+  4. [ ] body tags
 
-**Adding the basic html page structure**
-  1. [ ] html tags
-  2. [ ] head tags
-  3. [ ] body tags
-  
+  - Date this task is scheduled to be completed: 
+  - Date this task was completed: 
+
 **Adding basic content**
   1. [ ] (1) h1 tag
     - Please describe what you are adding to your h1 tag:
