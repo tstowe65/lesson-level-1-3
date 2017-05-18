@@ -15,24 +15,25 @@
 
 ## Skill tracking (Level 1)
 
-### Tools Introduction 
+### 1. Tools Introduction 
   1. [ ] code editors & IDEs
   2. [ ] github introduction
 
-### Project Setup and Basic Page Structure 
+### 2. Project Setup and Basic Page Structure 
   1. [ ] create an index.html file
   2. [ ] create a style.css file
   3. [ ] `<!DOCTYPE html>`
   4. [ ] html tags
   5. [ ] head tags
   6. [ ] body tags
+  7. [ ] link the style.css file to the index.html file
 
   - **Date the project setup is scheduled to be completed:** 
   - **Date the project setup was completed:** 
   - **Instructor/coordinator initials:**
   - **Student initials:**  
 
-### Adding basic text content
+### 3. Adding basic text content
   1. [ ] (1) h1 tag (the h1 tag is the main title for the page)
   - Please describe what you are adding to your h1 tag:
   2. [ ] (2) h2 tags (each h2 tag is a section of the site) 
@@ -50,7 +51,7 @@
   - **Instructor/coordinator initials:** 
   - **Student initials:**  
 
-### Adding basic style
+### 4. Adding basic style
   1. [ ] css rule-set to change the background color of the body
   2. [ ] css rule-set to change the color of the h1 tag
   3. [ ] css rule-set to change the color of the h2 tags  
@@ -65,3 +66,11 @@
 
 ## Skill tracking (Level 2)
 
+### 1. Adding images
+  1. [ ] using google find (2) images
+  2. [ ] add the (2) images (there should be one image directly under each h2 tag)
+  
+  - **Date adding images is scheduled to be completed:** 
+  - **Date adding images was completed:**  
+  - **Instructor/coordinator initials:** 
+  - **Student initials:** 
