@@ -1,6 +1,6 @@
 # Project 1 (Levels 1 - 2): html and css
 
-![state: not ready](https://img.shields.io/badge/project-not%20ready-red.svg)
+![state: not ready](https://img.shields.io/badge/status-not%20ready-red.svg)
 
 ## Project outline and details
   1. Project name:
