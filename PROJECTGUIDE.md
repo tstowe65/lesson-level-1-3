@@ -6,7 +6,7 @@
   1. Project name:
   2. What kind (static website, game, mobile web app, etc.) of project is this:
   3. What is this project about (please be detailed):
-  4. What research do you need to do for this project:
+  4. What research (do you need to learn about a person, find images, etc.) do you need to do for this project:
 
   - **Date the project outline is scheduled to be completed:** 
   - **Date the project outline was completed:**
@@ -15,11 +15,13 @@
 
 ## Skill tracking (Level 1)
 
-### 1. Tools Introduction 
+### 1. Tools 
+#### Tools Introduction
   1. [ ] code editors & IDEs
   2. [ ] github introduction
 
-### 2. Project Setup and Basic Page Structure 
+### 2. Code 
+#### Project Setup and Basic Page Structure
   1. [ ] create an index.html file
   2. [ ] create a style.css file
   3. [ ] `<!DOCTYPE html>`
@@ -33,7 +35,7 @@
   - **Instructor/coordinator initials:**
   - **Student initials:**  
 
-### 3. Adding basic text content
+#### Adding basic text content
   1. [ ] (1) h1 tag (the h1 tag is the main title for the page)
   - Please describe what you are adding to your h1 tag:
   2. [ ] (2) h2 tags (each h2 tag is a section of the site) 
@@ -51,7 +53,7 @@
   - **Instructor/coordinator initials:** 
   - **Student initials:**  
 
-### 4. Adding basic style
+#### Adding basic style
   1. [ ] css rule-set to change the background color of the body
   2. [ ] css rule-set to change the color of the h1 tag
   3. [ ] css rule-set to change the color of the h2 tags  
@@ -63,6 +65,8 @@
   - **Date the basic style content was completed:**  
   - **Instructor/coordinator initials:** 
   - **Student initials:** 
+
+
 
 ## Skill tracking (Level 2)
 
