@@ -70,7 +70,7 @@
 #### Verbal
   1. [ ] clearly and effectively communicate basic project ideas
   
-  **Rating:**
+  ##### Rating:
   1. [ ] exceeds expectations
   2. [ ] meets expectations
   3. [ ] does not meet expectations (if you are selecting this rating please provide a brief explanation why) 
@@ -82,7 +82,7 @@
 #### Listening
   1. [ ] actively listening and present when the instructor is speaking
 
-  **Rating:**
+  ##### Rating:
   1. [ ] exceeds expectations
   2. [ ] meets expectations
   3. [ ] does not meet expectations (if you are selecting this rating please provide a brief explanation why)
