@@ -66,11 +66,35 @@
   - **Instructor/coordinator initials:** 
   - **Student initials:** 
 
+### 3. Communication 
+#### Verbal
+  1. [ ] clearly and effectively communicate basic project ideas
+  
+  **Rating:**
+  1. [ ] exceeds expectations
+  2. [ ] meets expectations
+  3. [ ] does not meet expectations (if you are selecting this rating please provide a brief explanation why) 
 
+  - **Date this skill was achieved:**  
+  - **Instructor/coordinator initials:**
+  - **Student initials:**
 
+#### Listening
+  1. [ ] actively listening and present when the instructor is speaking
+
+  **Rating:**
+  1. [ ] exceeds expectations
+  2. [ ] meets expectations
+  3. [ ] does not meet expectations (if you are selecting this rating please provide a brief explanation why)
+
+  - **Date this skill was achieved:**  
+  - **Instructor/coordinator initials:**
+  - **Student initials:**
+  
 ## Skill tracking (Level 2)
 
-### 1. Adding images
+### 1. Code
+#### Adding images
   1. [ ] using google find (2) images
   2. [ ] add the (2) images (there should be one image directly under each h2 tag)
   
