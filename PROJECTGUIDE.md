@@ -30,6 +30,11 @@
   6. [ ] body tags
   7. [ ] link the style.css file to the index.html file
 
+  ##### Rating:
+  1. [ ] student has mastered this skill
+  2. [ ] student understands this skill, but could use reinforcement
+  3. [ ] student has not mastered this skill yet and reinforcement is needed (if you are selecting this rating please provide a brief explanation of where reinforcement is needed)
+
   - **Date the project setup is scheduled to be completed:** 
   - **Date the project setup was completed:** 
   - **Instructor/coordinator initials:**
@@ -48,6 +53,11 @@
   - Please describe what you are adding to your fourth p tag:  
   4. [ ] indentation
 
+  ##### Rating:
+  1. [ ] student has mastered this skill
+  2. [ ] student understands this skill, but could use reinforcement
+  3. [ ] student has not mastered this skill yet and reinforcement is needed (if you are selecting this rating please provide a brief explanation of where reinforcement is needed)
+
   - **Date the basic text content is scheduled to be completed:** 
   - **Date the basic text content was completed:**  
   - **Instructor/coordinator initials:** 
@@ -61,6 +71,11 @@
   5. [ ] css rule-set to change the size of their p tags
   6. [ ] css rule-set to center align their h1 tag
 
+  ##### Rating:
+  1. [ ] student has mastered this skill
+  2. [ ] student understands this skill, but could use reinforcement
+  3. [ ] student has not mastered this skill yet and reinforcement is needed (if you are selecting this rating please provide a brief explanation of where reinforcement is needed)
+
   - **Date the basic style is scheduled to be completed:** 
   - **Date the basic style content was completed:**  
   - **Instructor/coordinator initials:** 
@@ -71,9 +86,9 @@
   1. [ ] clearly and effectively communicate basic project ideas
   
   ##### Rating:
-  1. [ ] exceeds expectations
-  2. [ ] meets expectations
-  3. [ ] does not meet expectations (if you are selecting this rating please provide a brief explanation why) 
+  1. [ ] student has mastered this skill
+  2. [ ] student understands this skill, but could use reinforcement
+  3. [ ] student has not mastered this skill yet and reinforcement is needed (if you are selecting this rating please provide a brief explanation of where reinforcement is needed) 
 
   - **Date this skill was achieved:**  
   - **Instructor/coordinator initials:**
@@ -83,9 +98,9 @@
   1. [ ] actively listening and present when the instructor is speaking
 
   ##### Rating:
-  1. [ ] exceeds expectations
-  2. [ ] meets expectations
-  3. [ ] does not meet expectations (if you are selecting this rating please provide a brief explanation why)
+  1. [ ] student has mastered this skill
+  2. [ ] student understands this skill, but could use reinforcement
+  3. [ ] student has not mastered this skill yet and reinforcement is needed (if you are selecting this rating please provide a brief explanation of where reinforcement is needed)
 
   - **Date this skill was achieved:**  
   - **Instructor/coordinator initials:**
