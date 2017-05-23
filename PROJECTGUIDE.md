@@ -1,4 +1,4 @@
-# Project 1 (Levels 1 - 2): html and css
+# Project 1 (Levels 1 - 3): html and css
 
 ![state: not ready](https://img.shields.io/badge/status-not%20ready-red.svg)
 
