@@ -41,12 +41,12 @@
   - **Student initials:**  
 
 #### Adding basic text content
-  1. [ ] (1) h1 tag (the h1 tag is the main title for the page)
+  1. [ ] add (1) h1 tag (the h1 tag is the main title for the page)
   - Please describe what you are adding to your h1 tag:
-  2. [ ] (2) h2 tags (each h2 tag is a section of the site) 
+  2. [ ] add at least (2) h2 tags (each h2 tag is a section of the site) 
   - Please describe what you are adding to your first h2 tag:
   - Please describe what you are adding to your second h2 tag:
-  3. [ ] (4) p tags (there should be 2 p tags under each h2 tag)
+  3. [ ] add at least (4) p tags (there should be at least 2 p tags under each h2 tag)
   - Please describe what you are adding to your first p tag:
   - Please describe what you are adding to your second p tag:
   - Please describe what you are adding to your third p tag:
@@ -178,8 +178,8 @@
 
 ### 1. Code
 #### Adding images
-  1. [ ] using google find (2) images
-  2. [ ] add the (2) images (there should be one image directly under each h2 tag)
+  1. [ ] using google find at least (2) images, but no more than (6)
+  2. [ ] add the images to the site
   
   ##### Rating:
   1. [ ] student has mastered this skill
@@ -193,7 +193,7 @@
 
 #### Building lists
   1. [ ] create an unordered list
-  2. [ ] add (3) li tags to the unordered list (each li tag should have the name of one of your favorite websites)
+  2. [ ] add at least (3) li tags to the unordered list (each li tag should have the name of one of your favorite websites)
   - Please list the 1st website here:
   - Please list the 2nd website here:
   - Please list the 3rd website here:
@@ -221,9 +221,22 @@
   - **Instructor/coordinator initials:** 
   - **Student initials:**
   
-#### Using div and span  
-  1. [ ] add div tags to break the page content up into sections
-  2. [ ] 
+#### Dividing pages into sections - basic  
+  1. [ ] add div tags to break the page content up into sections (there should be at least (2) sections)
+  
+  ##### Rating:
+  1. [ ] student has mastered this skill
+  2. [ ] student understands this skill, but could use reinforcement
+  3. [ ] student has not mastered this skill yet and reinforcement is needed (if you are selecting this rating please provide a brief explanation of where reinforcement is needed)  
+  
+  - **Date adding images is scheduled to be completed:** 
+  - **Date adding images was completed:**  
+  - **Instructor/coordinator initials:** 
+  - **Student initials:**
+
+#### Using id and class  
+  1. [ ] using ids give each section a different background color and adjust the height of each section
+  2. [ ] using classes assign some of the p tags one color and the rest of the p tags another color
   
   ##### Rating:
   1. [ ] student has mastered this skill
