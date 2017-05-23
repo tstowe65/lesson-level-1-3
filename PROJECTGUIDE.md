@@ -64,12 +64,16 @@
   - **Student initials:**  
 
 #### Adding basic style
-  1. [ ] css rule-set to change the background color of the body
-  2. [ ] css rule-set to change the color of the h1 tag
-  3. [ ] css rule-set to change the color of the h2 tags  
-  4. [ ] css rule-set to change the color of the p tags
-  5. [ ] css rule-set to change the size of their p tags
-  6. [ ] css rule-set to center align their h1 tag
+  1. [ ] start by adding styles inside of style tags in the html file
+  2. [ ] css rule-set to change the background color of the body
+  3. [ ] css rule-set to change the color of the h1 tag
+  4. [ ] remove the style tags from the html file, create a css file, move the previously created css to the css file and add all future css to this file
+  5. [ ] link the css file to the html file
+  6. [ ] css rule-set to change the color of the h2 tags  
+  7. [ ] css rule-set to change the color of the p tags
+  8. [ ] css rule-set to change the size of their p tags
+  9. [ ] css rule-set to center align their h1 tag 
+  10. [ ] change the element colors using the HEX codes
 
   ##### Rating:
   1. [ ] student has mastered this skill
@@ -177,7 +181,56 @@
   1. [ ] using google find (2) images
   2. [ ] add the (2) images (there should be one image directly under each h2 tag)
   
+  ##### Rating:
+  1. [ ] student has mastered this skill
+  2. [ ] student understands this skill, but could use reinforcement
+  3. [ ] student has not mastered this skill yet and reinforcement is needed (if you are selecting this rating please provide a brief explanation of where reinforcement is needed)  
+  
   - **Date adding images is scheduled to be completed:** 
   - **Date adding images was completed:**  
   - **Instructor/coordinator initials:** 
   - **Student initials:** 
+
+#### Building lists
+  1. [ ] create an unordered list
+  2. [ ] add (3) li tags to the unordered list (each li tag should have the name of one of your favorite websites)
+  - Please list the 1st website here:
+  - Please list the 2nd website here:
+  - Please list the 3rd website here:
+  
+  ##### Rating:
+  1. [ ] student has mastered this skill
+  2. [ ] student understands this skill, but could use reinforcement
+  3. [ ] student has not mastered this skill yet and reinforcement is needed (if you are selecting this rating please provide a brief explanation of where reinforcement is needed)  
+  
+  - **Date adding images is scheduled to be completed:** 
+  - **Date adding images was completed:**  
+  - **Instructor/coordinator initials:** 
+  - **Student initials:**
+ 
+#### Creating hyperlinks 
+  1. [ ] turn each li tag into a hyperlink that links to the website listed
+  
+  ##### Rating:
+  1. [ ] student has mastered this skill
+  2. [ ] student understands this skill, but could use reinforcement
+  3. [ ] student has not mastered this skill yet and reinforcement is needed (if you are selecting this rating please provide a brief explanation of where reinforcement is needed)  
+  
+  - **Date adding images is scheduled to be completed:** 
+  - **Date adding images was completed:**  
+  - **Instructor/coordinator initials:** 
+  - **Student initials:**
+  
+#### Using div and span  
+  1. [ ] add div tags to break the page content up into sections
+  2. [ ] 
+  
+  ##### Rating:
+  1. [ ] student has mastered this skill
+  2. [ ] student understands this skill, but could use reinforcement
+  3. [ ] student has not mastered this skill yet and reinforcement is needed (if you are selecting this rating please provide a brief explanation of where reinforcement is needed)  
+  
+  - **Date adding images is scheduled to be completed:** 
+  - **Date adding images was completed:**  
+  - **Instructor/coordinator initials:** 
+  - **Student initials:**
