@@ -105,7 +105,71 @@
   - **Date this skill was achieved:**  
   - **Instructor/coordinator initials:**
   - **Student initials:**
+
+### 4. Personal skills and emotional intelligence 
+#### Managing emotions
+  1. [ ] able to control disruptive emotions
+  2. [ ] able to manage negative emotions when confronted with a setback
+  3. [ ] able to control impulses
   
+  ##### Rating:
+  1. [ ] student has mastered this skill
+  2. [ ] student understands this skill, but could use reinforcement
+  3. [ ] student has not mastered this skill yet and reinforcement is needed (if you are selecting this rating please provide a brief explanation of where reinforcement is needed) 
+
+  - **Date this skill was achieved:**  
+  - **Instructor/coordinator initials:**
+  - **Student initials:**
+
+### 5. Professional skills 
+#### Planning
+  1. [ ] provides input as the instructor/coordinator plans the project
+  
+  ##### Rating:
+  1. [ ] student has mastered this skill
+  2. [ ] student understands this skill, but could use reinforcement
+  3. [ ] student has not mastered this skill yet and reinforcement is needed (if you are selecting this rating please provide a brief explanation of where reinforcement is needed) 
+
+  - **Date this skill was achieved:**  
+  - **Instructor/coordinator initials:**
+  - **Student initials:**
+  
+#### Time management
+  1. [ ] able to work within the time allotted by instructors
+  
+  ##### Rating:
+  1. [ ] student has mastered this skill
+  2. [ ] student understands this skill, but could use reinforcement
+  3. [ ] student has not mastered this skill yet and reinforcement is needed (if you are selecting this rating please provide a brief explanation of where reinforcement is needed) 
+
+  - **Date this skill was achieved:**  
+  - **Instructor/coordinator initials:**
+  - **Student initials:**
+
+#### Task management
+  1. [ ] able to follow the task list that was created with the instructor
+  
+  ##### Rating:
+  1. [ ] student has mastered this skill
+  2. [ ] student understands this skill, but could use reinforcement
+  3. [ ] student has not mastered this skill yet and reinforcement is needed (if you are selecting this rating please provide a brief explanation of where reinforcement is needed) 
+
+  - **Date this skill was achieved:**  
+  - **Instructor/coordinator initials:**
+  - **Student initials:**
+
+#### Problem solving
+  1. [ ] able to follow along as an instructor helps with finding code problems
+  
+  ##### Rating:
+  1. [ ] student has mastered this skill
+  2. [ ] student understands this skill, but could use reinforcement
+  3. [ ] student has not mastered this skill yet and reinforcement is needed (if you are selecting this rating please provide a brief explanation of where reinforcement is needed) 
+
+  - **Date this skill was achieved:**  
+  - **Instructor/coordinator initials:**
+  - **Student initials:**
+
 ## Skill tracking (Level 2)
 
 ### 1. Code
