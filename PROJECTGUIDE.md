@@ -16,12 +16,12 @@
 ## Skill tracking (Level 1)
 
 ### 1. Tools 
-#### Tools Introduction
+#### I. Tools Introduction
   1. [ ] code editors & IDEs
   2. [ ] github introduction
 
 ### 2. Code 
-#### Project Setup and Basic Page Structure
+#### I. Project Setup and Basic Page Structure
   1. [ ] create an index.html file
   2. [ ] create a style.css file
   3. [ ] `<!DOCTYPE html>`
@@ -40,7 +40,7 @@
   - **Instructor/coordinator initials:**
   - **Student initials:**  
 
-#### Adding basic text content
+#### II. Adding basic text content
   1. [ ] add (1) h1 tag (the h1 tag is the main title for the page)
   - Please describe what you are adding to your h1 tag:
   2. [ ] add at least (2) h2 tags (each h2 tag is a section of the site) 
@@ -63,7 +63,7 @@
   - **Instructor/coordinator initials:** 
   - **Student initials:**  
 
-#### Adding basic style
+#### III. Adding basic style
   1. [ ] start by adding styles inside of style tags in the html file
   2. [ ] css rule-set to change the background color of the body
   3. [ ] css rule-set to change the color of the h1 tag
@@ -86,7 +86,7 @@
   - **Student initials:** 
 
 ### 3. Communication 
-#### Verbal
+#### I. Verbal
   1. [ ] clearly and effectively communicate basic project ideas
   
   ##### Rating:
@@ -98,7 +98,7 @@
   - **Instructor/coordinator initials:**
   - **Student initials:**
 
-#### Listening
+#### II. Listening
   1. [ ] actively listening and present when the instructor is speaking
 
   ##### Rating:
@@ -111,7 +111,7 @@
   - **Student initials:**
 
 ### 4. Personal skills and emotional intelligence 
-#### Managing emotions
+#### I. Managing emotions
   1. [ ] able to control disruptive emotions
   2. [ ] able to manage negative emotions when confronted with a setback
   3. [ ] able to control impulses
@@ -126,7 +126,7 @@
   - **Student initials:**
 
 ### 5. Professional skills 
-#### Planning
+#### I. Planning
   1. [ ] provides input as the instructor/coordinator plans the project
   
   ##### Rating:
@@ -138,7 +138,7 @@
   - **Instructor/coordinator initials:**
   - **Student initials:**
   
-#### Time management
+#### II. Time management
   1. [ ] able to work within the time allotted by instructors
   
   ##### Rating:
@@ -150,7 +150,7 @@
   - **Instructor/coordinator initials:**
   - **Student initials:**
 
-#### Task management
+#### III. Task management
   1. [ ] able to follow the task list that was created with the instructor
   
   ##### Rating:
@@ -162,7 +162,7 @@
   - **Instructor/coordinator initials:**
   - **Student initials:**
 
-#### Problem solving
+#### IV. Problem solving
   1. [ ] able to follow along as an instructor helps with finding code problems
   
   ##### Rating:
@@ -176,8 +176,14 @@
 
 ## Skill tracking (Level 2)
 
-### 1. Code
-#### Adding images
+### 1. Tools 
+#### I. Tools Introduction
+  1. [ ] command line part 1
+  2. [ ] chrome dev tools part 1
+  3. [ ] google
+
+### 2. Code
+#### I. Adding images
   1. [ ] using google find at least (2) images, but no more than (6)
   2. [ ] add the images to the site
   
@@ -191,7 +197,7 @@
   - **Instructor/coordinator initials:** 
   - **Student initials:** 
 
-#### Building lists
+#### II. Building lists
   1. [ ] create an unordered list
   2. [ ] add at least (3) li tags to the unordered list (each li tag should have the name of one of your favorite websites)
   - Please list the 1st website here:
@@ -208,7 +214,7 @@
   - **Instructor/coordinator initials:** 
   - **Student initials:**
  
-#### Creating hyperlinks 
+#### III. Creating hyperlinks 
   1. [ ] turn each li tag into a hyperlink that links to the website listed
   
   ##### Rating:
@@ -221,7 +227,7 @@
   - **Instructor/coordinator initials:** 
   - **Student initials:**
   
-#### Dividing pages into sections - basic  
+#### IV. Dividing pages into sections - basic  
   1. [ ] add div tags to break the page content up into sections (there should be at least (2) sections)
   
   ##### Rating:
@@ -234,9 +240,25 @@
   - **Instructor/coordinator initials:** 
   - **Student initials:**
 
-#### Using id, class and height 
+#### V. Intermediate styling (id, class, span, height and font weight)
   1. [ ] using ids give each section a different background color and adjust the height of each section
   2. [ ] using classes assign some of the p tags one color and the rest of the p tags another color
+  3. [ ] using span pick out a small selection (this can be the most important text in the section) of the text in each p tag and change the font weight and color of the selected text
+  
+  ##### Rating:
+  1. [ ] student has mastered this skill
+  2. [ ] student understands this skill, but could use reinforcement
+  3. [ ] student has not mastered this skill yet and reinforcement is needed (if you are selecting this rating please provide a brief explanation of where reinforcement is needed)  
+  
+  - **Date adding images is scheduled to be completed:** 
+  - **Date adding images was completed:**  
+  - **Instructor/coordinator initials:** 
+  - **Student initials:**
+
+#### VI. The box model (border, margin and padding)
+  1. [ ] using 
+  2. [ ] using 
+  3. [ ] using 
   
   ##### Rating:
   1. [ ] student has mastered this skill
