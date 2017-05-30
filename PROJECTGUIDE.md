@@ -234,7 +234,7 @@
   - **Instructor/coordinator initials:** 
   - **Student initials:**
 
-#### Using id and class  
+#### Using id, class and height 
   1. [ ] using ids give each section a different background color and adjust the height of each section
   2. [ ] using classes assign some of the p tags one color and the rest of the p tags another color
   
