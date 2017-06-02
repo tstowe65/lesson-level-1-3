@@ -325,3 +325,90 @@
   - **Date adding comments was completed:**  
   - **Instructor/coordinator initials:** 
   - **Student initials:**
+
+### 3. Communication 
+#### I. Verbal
+  1. [ ] clearly and effectively communicating a basic outline for the project
+  
+  ##### Rating:
+  1. [ ] student has mastered this skill
+  2. [ ] student understands this skill, but could use reinforcement
+  3. [ ] student has not mastered this skill yet and reinforcement is needed (if you are selecting this rating please provide a brief explanation of where reinforcement is needed) 
+
+  - **Date this skill was achieved:**  
+  - **Instructor/coordinator initials:**
+  - **Student initials:**
+
+#### II. Listening
+  1. [ ] able to remember and paraphrase back small concepts
+
+  ##### Rating:
+  1. [ ] student has mastered this skill
+  2. [ ] student understands this skill, but could use reinforcement
+  3. [ ] student has not mastered this skill yet and reinforcement is needed (if you are selecting this rating please provide a brief explanation of where reinforcement is needed)
+
+  - **Date this skill was achieved:**  
+  - **Instructor/coordinator initials:**
+  - **Student initials:**
+
+### 4. Personal skills and emotional intelligence 
+#### I. Resilience
+  1. [ ] able to work through difficult project obstacles
+  
+  ##### Rating:
+  1. [ ] student has mastered this skill
+  2. [ ] student understands this skill, but could use reinforcement
+  3. [ ] student has not mastered this skill yet and reinforcement is needed (if you are selecting this rating please provide a brief explanation of where reinforcement is needed) 
+
+  - **Date this skill was achieved:**  
+  - **Instructor/coordinator initials:**
+  - **Student initials:**
+
+### 5. Professional skills 
+#### I. Planning
+  1. [ ] able to assist the instructor/coordinator with project planning
+  
+  ##### Rating:
+  1. [ ] student has mastered this skill
+  2. [ ] student understands this skill, but could use reinforcement
+  3. [ ] student has not mastered this skill yet and reinforcement is needed (if you are selecting this rating please provide a brief explanation of where reinforcement is needed) 
+
+  - **Date this skill was achieved:**  
+  - **Instructor/coordinator initials:**
+  - **Student initials:**
+  
+#### II. Task management
+  1. [ ] able to assist the instructor with developing a project task list
+  
+  ##### Rating:
+  1. [ ] student has mastered this skill
+  2. [ ] student understands this skill, but could use reinforcement
+  3. [ ] student has not mastered this skill yet and reinforcement is needed (if you are selecting this rating please provide a brief explanation of where reinforcement is needed) 
+
+  - **Date this skill was achieved:**  
+  - **Instructor/coordinator initials:**
+  - **Student initials:**
+
+#### III. Problem solving
+  1. [ ] able to assist the instructor with finding code problems
+  
+  ##### Rating:
+  1. [ ] student has mastered this skill
+  2. [ ] student understands this skill, but could use reinforcement
+  3. [ ] student has not mastered this skill yet and reinforcement is needed (if you are selecting this rating please provide a brief explanation of where reinforcement is needed) 
+
+  - **Date this skill was achieved:**  
+  - **Instructor/coordinator initials:**
+  - **Student initials:**
+
+#### IV. Research
+  1. [ ] able to use google to look up basic coding concepts
+  
+  ##### Rating:
+  1. [ ] student has mastered this skill
+  2. [ ] student understands this skill, but could use reinforcement
+  3. [ ] student has not mastered this skill yet and reinforcement is needed (if you are selecting this rating please provide a brief explanation of where reinforcement is needed) 
+
+  - **Date this skill was achieved:**  
+  - **Instructor/coordinator initials:**
+  - **Student initials:**
