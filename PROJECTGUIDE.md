@@ -18,7 +18,7 @@
 ### 1. Tools 
 #### I. Tools Introduction
   1. [ ] code editors & IDEs
-  2. [ ] github introduction
+  2. [ ] github part 1 - introduction
 
 ### 2. Code 
 #### I. Project Setup and Basic Page Structure
@@ -180,7 +180,7 @@
 #### I. Tools Introduction
   1. [ ] command line part 1 - introduce the command line by showing students how they can view their files using it and how they can navigate directories
   2. [ ] chrome dev tools part 1 - introduce chrome dev tools while showing how to apply the box model to show how the dev tools can aid with css
-  3. [ ] google - indtroduce students to using google as a resource while they are searching for images
+  3. [ ] google - indtroduce google as a resource to look up html tags and css rule-sets
 
 ### 2. Code
 #### I. Adding images
@@ -323,6 +323,173 @@
   
   - **Date adding comments are scheduled to be completed:** 
   - **Date adding comments was completed:**  
+  - **Instructor/coordinator initials:** 
+  - **Student initials:**
+
+### 3. Communication 
+#### I. Verbal
+  1. [ ] clearly and effectively communicating a basic outline for the project
+  
+  ##### Rating:
+  1. [ ] student has mastered this skill
+  2. [ ] student understands this skill, but could use reinforcement
+  3. [ ] student has not mastered this skill yet and reinforcement is needed (if you are selecting this rating please provide a brief explanation of where reinforcement is needed) 
+
+  - **Date this skill was achieved:**  
+  - **Instructor/coordinator initials:**
+  - **Student initials:**
+
+#### II. Listening
+  1. [ ] able to remember and paraphrase back small concepts
+
+  ##### Rating:
+  1. [ ] student has mastered this skill
+  2. [ ] student understands this skill, but could use reinforcement
+  3. [ ] student has not mastered this skill yet and reinforcement is needed (if you are selecting this rating please provide a brief explanation of where reinforcement is needed)
+
+  - **Date this skill was achieved:**  
+  - **Instructor/coordinator initials:**
+  - **Student initials:**
+
+### 4. Personal skills and emotional intelligence 
+#### I. Resilience
+  1. [ ] able to work through difficult project obstacles
+  
+  ##### Rating:
+  1. [ ] student has mastered this skill
+  2. [ ] student understands this skill, but could use reinforcement
+  3. [ ] student has not mastered this skill yet and reinforcement is needed (if you are selecting this rating please provide a brief explanation of where reinforcement is needed) 
+
+  - **Date this skill was achieved:**  
+  - **Instructor/coordinator initials:**
+  - **Student initials:**
+
+### 5. Professional skills 
+#### I. Planning
+  1. [ ] able to assist the instructor/coordinator with project planning
+  
+  ##### Rating:
+  1. [ ] student has mastered this skill
+  2. [ ] student understands this skill, but could use reinforcement
+  3. [ ] student has not mastered this skill yet and reinforcement is needed (if you are selecting this rating please provide a brief explanation of where reinforcement is needed) 
+
+  - **Date this skill was achieved:**  
+  - **Instructor/coordinator initials:**
+  - **Student initials:**
+  
+#### II. Task management
+  1. [ ] able to assist the instructor with developing a project task list
+  
+  ##### Rating:
+  1. [ ] student has mastered this skill
+  2. [ ] student understands this skill, but could use reinforcement
+  3. [ ] student has not mastered this skill yet and reinforcement is needed (if you are selecting this rating please provide a brief explanation of where reinforcement is needed) 
+
+  - **Date this skill was achieved:**  
+  - **Instructor/coordinator initials:**
+  - **Student initials:**
+
+#### III. Problem solving
+  1. [ ] able to assist the instructor with finding code problems
+  
+  ##### Rating:
+  1. [ ] student has mastered this skill
+  2. [ ] student understands this skill, but could use reinforcement
+  3. [ ] student has not mastered this skill yet and reinforcement is needed (if you are selecting this rating please provide a brief explanation of where reinforcement is needed) 
+
+  - **Date this skill was achieved:**  
+  - **Instructor/coordinator initials:**
+  - **Student initials:**
+
+#### IV. Research
+  1. [ ] able to use google to look up basic coding concepts
+  
+  ##### Rating:
+  1. [ ] student has mastered this skill
+  2. [ ] student understands this skill, but could use reinforcement
+  3. [ ] student has not mastered this skill yet and reinforcement is needed (if you are selecting this rating please provide a brief explanation of where reinforcement is needed) 
+
+  - **Date this skill was achieved:**  
+  - **Instructor/coordinator initials:**
+  - **Student initials:**
+
+## Skill tracking (Level 3)
+
+### 1. Tools 
+#### I. Tools Introduction
+  1. [ ] command line part 2 - 
+  2. [ ] git part 1 - 
+  3. [ ] github part 2 - 
+
+### 2. Code
+#### I. Simple nav bars
+  1. [ ] place the unordered list you created inside of nav tags
+  2. [ ] place the nav tags and unordered list inside of header tags
+  3. [ ] apply a list-style:none css rule to the unordered list
+  4. [ ] apply a display:inline css rule to the list items
+  5. [ ] apply padding to list items to add space between each link
+  
+  ##### Rating:
+  1. [ ] student has mastered this skill
+  2. [ ] student understands this skill, but could use reinforcement
+  3. [ ] student has not mastered this skill yet and reinforcement is needed (if you are selecting this rating please provide a brief explanation of where reinforcement is needed)  
+  
+  - **Date the simple nav bar is scheduled to be completed:** 
+  - **Date the simple nav bar was completed:**  
+  - **Instructor/coordinator initials:** 
+  - **Student initials:** 
+
+#### II. Positioning 
+  1. [ ] apply a position:absolute css rule to one of the elements on the site
+  2. [ ] change the position of the absolutely positioned element
+  
+  ##### Rating:
+  1. [ ] student has mastered this skill
+  2. [ ] student understands this skill, but could use reinforcement
+  3. [ ] student has not mastered this skill yet and reinforcement is needed (if you are selecting this rating please provide a brief explanation of where reinforcement is needed)  
+  
+  - **Date the positioning is scheduled to be completed:** 
+  - **Date the positioning was completed:**  
+  - **Instructor/coordinator initials:** 
+  - **Student initials:**
+ 
+#### III. Custom fonts 
+  1. [ ] change the content fonts to a web safe font
+  2. [ ] change the content fonts using google fonts
+  
+  ##### Rating:
+  1. [ ] student has mastered this skill
+  2. [ ] student understands this skill, but could use reinforcement
+  3. [ ] student has not mastered this skill yet and reinforcement is needed (if you are selecting this rating please provide a brief explanation of where reinforcement is needed)  
+  
+  - **Date the custom fonts are scheduled to be completed:** 
+  - **Date the custom fonts were completed:**  
+  - **Instructor/coordinator initials:** 
+  - **Student initials:**
+  
+#### IV. Text decoration  
+  1. [ ] apply a text-decoration css rule to content on your site
+  
+  ##### Rating:
+  1. [ ] student has mastered this skill
+  2. [ ] student understands this skill, but could use reinforcement
+  3. [ ] student has not mastered this skill yet and reinforcement is needed (if you are selecting this rating please provide a brief explanation of where reinforcement is needed)  
+  
+  - **Date text decoration is scheduled to be completed:** 
+  - **Date text decoration was completed:**  
+  - **Instructor/coordinator initials:** 
+  - **Student initials:**
+
+#### V. Footer
+  1. [ ] add a footer to the site
+  
+  ##### Rating:
+  1. [ ] student has mastered this skill
+  2. [ ] student understands this skill, but could use reinforcement
+  3. [ ] student has not mastered this skill yet and reinforcement is needed (if you are selecting this rating please provide a brief explanation of where reinforcement is needed)  
+  
+  - **Date footer is scheduled to be completed:** 
+  - **Date footer was completed:**  
   - **Instructor/coordinator initials:** 
   - **Student initials:**
 
