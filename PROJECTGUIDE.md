@@ -178,9 +178,9 @@
 
 ### 1. Tools 
 #### I. Tools Introduction
-  1. [ ] command line part 1
-  2. [ ] chrome dev tools part 1
-  3. [ ] google
+  1. [ ] command line part 1 - introduce the command line by showing students how they can view their files using it and how they can navigate directories
+  2. [ ] chrome dev tools part 1 - introduce chrome dev tools while showing how to apply the box model to show how the dev tools can aid with css
+  3. [ ] google - indtroduce students to using google as a resource while they are searching for images
 
 ### 2. Code
 #### I. Adding images
@@ -209,8 +209,8 @@
   2. [ ] student understands this skill, but could use reinforcement
   3. [ ] student has not mastered this skill yet and reinforcement is needed (if you are selecting this rating please provide a brief explanation of where reinforcement is needed)  
   
-  - **Date adding images is scheduled to be completed:** 
-  - **Date adding images was completed:**  
+  - **Date the list is scheduled to be completed:** 
+  - **Date the list was completed:**  
   - **Instructor/coordinator initials:** 
   - **Student initials:**
  
@@ -222,8 +222,8 @@
   2. [ ] student understands this skill, but could use reinforcement
   3. [ ] student has not mastered this skill yet and reinforcement is needed (if you are selecting this rating please provide a brief explanation of where reinforcement is needed)  
   
-  - **Date adding images is scheduled to be completed:** 
-  - **Date adding images was completed:**  
+  - **Date the hyperlinks are scheduled to be completed:** 
+  - **Date the hyperlinks were completed:**  
   - **Instructor/coordinator initials:** 
   - **Student initials:**
   
@@ -235,8 +235,8 @@
   2. [ ] student understands this skill, but could use reinforcement
   3. [ ] student has not mastered this skill yet and reinforcement is needed (if you are selecting this rating please provide a brief explanation of where reinforcement is needed)  
   
-  - **Date adding images is scheduled to be completed:** 
-  - **Date adding images was completed:**  
+  - **Date sections are scheduled to be completed:** 
+  - **Date sections were completed:**  
   - **Instructor/coordinator initials:** 
   - **Student initials:**
 
@@ -250,22 +250,78 @@
   2. [ ] student understands this skill, but could use reinforcement
   3. [ ] student has not mastered this skill yet and reinforcement is needed (if you are selecting this rating please provide a brief explanation of where reinforcement is needed)  
   
-  - **Date adding images is scheduled to be completed:** 
-  - **Date adding images was completed:**  
+  - **Date section styling is scheduled to be completed:** 
+  - **Date section styling was completed:**  
   - **Instructor/coordinator initials:** 
   - **Student initials:**
 
 #### VI. The box model (border, margin and padding)
-  1. [ ] using 
-  2. [ ] using 
-  3. [ ] using 
+  1. [ ] add padding to one of the div tags you created 
+  2. [ ] add a border to the div with the padding
+  3. [ ] add a margin to the div with the padding and border
+  4. [ ] add padding, border and margin to the h2 tags (get creative with how you apply each)
   
   ##### Rating:
   1. [ ] student has mastered this skill
   2. [ ] student understands this skill, but could use reinforcement
   3. [ ] student has not mastered this skill yet and reinforcement is needed (if you are selecting this rating please provide a brief explanation of where reinforcement is needed)  
   
-  - **Date adding images is scheduled to be completed:** 
-  - **Date adding images was completed:**  
+  - **Date box model is scheduled to be completed:** 
+  - **Date box model was completed:**  
+  - **Instructor/coordinator initials:** 
+  - **Student initials:**
+
+#### VII. Hover
+  1. [ ] add hover to each li that was previously turned into a hyperlink 
+  
+  ##### Rating:
+  1. [ ] student has mastered this skill
+  2. [ ] student understands this skill, but could use reinforcement
+  3. [ ] student has not mastered this skill yet and reinforcement is needed (if you are selecting this rating please provide a brief explanation of where reinforcement is needed)  
+  
+  - **Date hover is scheduled to be completed:** 
+  - **Date hover was completed:**  
+  - **Instructor/coordinator initials:** 
+  - **Student initials:**
+  
+#### VIII. Width properties
+  1. [ ] adjust the height and width of the images
+  2. [ ] adjust the width of (2) of the p tags
+  
+  ##### Rating:
+  1. [ ] student has mastered this skill
+  2. [ ] student understands this skill, but could use reinforcement
+  3. [ ] student has not mastered this skill yet and reinforcement is needed (if you are selecting this rating please provide a brief explanation of where reinforcement is needed)  
+  
+  - **Date adjustment of width properties are scheduled to be completed:** 
+  - **Date adjustment of width properties were completed:**  
+  - **Instructor/coordinator initials:** 
+  - **Student initials:**
+    
+#### IX. Tables
+  1. [ ] add a table with at least (4) rows and (4) columns
+  - Please describe the content/information that will go in the table:
+
+  ##### Rating:
+  1. [ ] student has mastered this skill
+  2. [ ] student understands this skill, but could use reinforcement
+  3. [ ] student has not mastered this skill yet and reinforcement is needed (if you are selecting this rating please provide a brief explanation of where reinforcement is needed)  
+  
+  - **Date tables are scheduled to be completed:** 
+  - **Date tables were completed:**  
+  - **Instructor/coordinator initials:** 
+  - **Student initials:**
+
+#### X. Comments
+  1. [ ] add basic comments to the html
+  2. [ ] add basic comments to the css
+  
+  ##### Rating:
+  1. [ ] student has mastered this skill
+  2. [ ] student understands this skill, but could use reinforcement
+  3. [ ] student has not mastered this skill yet and reinforcement is needed (if you are selecting this rating please provide a brief explanation of where reinforcement is needed)  
+  
+  - **Date adding comments are scheduled to be completed:** 
+  - **Date adding comments was completed:**  
   - **Instructor/coordinator initials:** 
   - **Student initials:**
