@@ -2,7 +2,7 @@
 
 ![state: ready](https://img.shields.io/badge/status-ready-green.svg)
 
-## Project outline and details
+## Project outline and details 
   1. Project name:
   2. What kind (static website, game, mobile web app, etc.) of project is this:
   3. What is this project about (please be detailed):
