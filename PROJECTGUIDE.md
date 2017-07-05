@@ -417,9 +417,9 @@
 
 ### 1. Tools 
 #### I. Tools Introduction
-  1. [ ] command line part 2 - 
-  2. [ ] git part 1 - 
-  3. [ ] github part 2 - 
+  1. [ ] command line part 2 - review intermediate command line concepts like creating and deleting files and directories
+  2. [ ] git part 1 - introduce git and basic git commands (git add, git commit, git push, git status)
+  3. [ ] github part 2 - review intermediate github functionality like pushing to github, pulling from github and cloning repos
 
 ### 2. Code
 #### I. Simple nav bars
@@ -495,7 +495,7 @@
 
 ### 3. Communication 
 #### I. Verbal
-  1. [ ] clearly and effectively communicating a basic outline for the project
+  1. [ ] clearly and effectively communicating detailed project concepts
   
   ##### Rating:
   1. [ ] student has mastered this skill
@@ -506,8 +506,20 @@
   - **Instructor/coordinator initials:**
   - **Student initials:**
 
-#### II. Listening
-  1. [ ] able to remember and paraphrase back small concepts
+#### II. Written
+  1. [ ] able to create basic project descriptions
+
+  ##### Rating:
+  1. [ ] student has mastered this skill
+  2. [ ] student understands this skill, but could use reinforcement
+  3. [ ] student has not mastered this skill yet and reinforcement is needed (if you are selecting this rating please provide a brief explanation of where reinforcement is needed)
+
+  - **Date this skill was achieved:**  
+  - **Instructor/coordinator initials:**
+  - **Student initials:**
+
+#### III. Listening
+  1. [ ] able to listen to, concentrate on and comprehend detailed project concepts
 
   ##### Rating:
   1. [ ] student has mastered this skill
@@ -519,8 +531,20 @@
   - **Student initials:**
 
 ### 4. Personal skills and emotional intelligence 
-#### I. Resilience
-  1. [ ] able to work through difficult project obstacles
+#### I. Managing emotions
+  1. [ ] able to control impulses
+  
+  ##### Rating:
+  1. [ ] student has mastered this skill
+  2. [ ] student understands this skill, but could use reinforcement
+  3. [ ] student has not mastered this skill yet and reinforcement is needed (if you are selecting this rating please provide a brief explanation of where reinforcement is needed) 
+
+  - **Date this skill was achieved:**  
+  - **Instructor/coordinator initials:**
+  - **Student initials:**
+
+#### II. Self assessment
+  1. [ ] able to provide basic feedback regarding personal project performance and progress
   
   ##### Rating:
   1. [ ] student has mastered this skill
@@ -533,7 +557,7 @@
 
 ### 5. Professional skills 
 #### I. Planning
-  1. [ ] able to assist the instructor/coordinator with project planning
+  1. [ ] able to develop a basic project outline
   
   ##### Rating:
   1. [ ] student has mastered this skill
@@ -545,7 +569,7 @@
   - **Student initials:**
   
 #### II. Task management
-  1. [ ] able to assist the instructor with developing a project task list
+  1. [ ] able to independently develop a basic project task list with instructor supervision
   
   ##### Rating:
   1. [ ] student has mastered this skill
@@ -557,7 +581,7 @@
   - **Student initials:**
 
 #### III. Problem solving
-  1. [ ] able to assist the instructor with finding code problems
+  1. [ ] able to independently troubleshoot code problems with instructor supervision
   
   ##### Rating:
   1. [ ] student has mastered this skill
@@ -568,14 +592,3 @@
   - **Instructor/coordinator initials:**
   - **Student initials:**
 
-#### IV. Research
-  1. [ ] able to use google to look up basic coding concepts
-  
-  ##### Rating:
-  1. [ ] student has mastered this skill
-  2. [ ] student understands this skill, but could use reinforcement
-  3. [ ] student has not mastered this skill yet and reinforcement is needed (if you are selecting this rating please provide a brief explanation of where reinforcement is needed) 
-
-  - **Date this skill was achieved:**  
-  - **Instructor/coordinator initials:**
-  - **Student initials:**
