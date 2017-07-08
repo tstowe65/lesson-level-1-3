@@ -17,7 +17,7 @@ This project provides students with an introduction to basic web development con
 
 ## 3. Moving through the project
   1. As you move through the project with a student there are concepts with check boxes next to them. As the student completes each completes each concepts you and the student should check the box next to the concept to indicate that concept has been completed. 
-  2. Some concepts will include a rating with three options (exceeds expectations, meets expectations and does not meet expectations). These ratings are based on your assessment of the students performance. 
+  2. Some concepts will include a rating with three options (1. mastered this skill, 2. understands this skill, but could use reinforcement and 3. has not mastered this skill yet and reinforcement is needed). These ratings are based on your assessment of the students performance. 
   3. Once each section has been completed have the student enter the date that section was completed.
 
 ## 4. The end of the project
