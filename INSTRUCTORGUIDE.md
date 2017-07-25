@@ -1,6 +1,6 @@
 ![state: ready](https://img.shields.io/badge/status-ready-green.svg)
 
-# Instructor Guide
+# Instructor Guide 
 
 ## 1. General project info
 - **Levels covered:** levels 1 - 3.
